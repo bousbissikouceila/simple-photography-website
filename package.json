@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "Photography website",
   "main": "index.js",
+  "homepage": "https://bousbissikouceila.github.io/simple-photography-website",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [
     "Photography"
   ],
   "author": "Kouceïla BOUSBISSI",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
