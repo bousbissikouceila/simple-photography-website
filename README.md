@@ -4,7 +4,7 @@
 
 ## Try it
 
-[Demo](https://bousbissikouceila.github.io/simple-photography-website "Click to have an idea")
+[Demo](https://bousbissikouceila.github.io/simple-photography-website/ "Click to have an idea")
 
 ## info
 
