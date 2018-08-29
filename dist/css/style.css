@@ -1,10 +1,37 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0;
     background-color: #eee;
     height: auto;
+}
+
+body::-webkit-scrollbar {
+    width: 13px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    background-clip: padding-box;
+    border: 3px solid transparent;
+    border-radius: 10px;
+}
+
+body::-webkit-scrollbar-track:hover {
+    border-left: 1px solid #ccc;
+}
+
+body::-webkit-scrollbar-corner {
+    display: none;
+}
+
+body::-webkit-scrollbar-button {
+    display: none;
 }
 
 h1 {
