@@ -1,18 +1,18 @@
 {
-  "name": "photographywebsite",
-  "version": "1.0.0",
-  "description": "Photography website",
-  "main": "index.js",
-  "homepage": "https://bousbissikouceila.github.io/simple-photography-website",
-  "scripts": {
-    "deploy": "gh-pages -d dist"
-  },
-  "keywords": [
-    "Photography"
-  ],
-  "author": "Kouceïla BOUSBISSI",
-  "license": "MIT",
-  "dependencies": {
-    "gh-pages": "^2.0.1"
-  }
+    "name": "photographywebsite",
+    "version": "1.0.0",
+    "description": "Photography website",
+    "main": "index.js",
+    "homepage": "https://bousbissikouceila.github.io/simple-photography-website",
+    "scripts": {
+        "deploy": "gh-pages -d dist/"
+    },
+    "keywords": [
+        "Photography"
+    ],
+    "author": "Kouceïla BOUSBISSI",
+    "license": "MIT",
+    "dependencies": {
+        "gh-pages": "^2.0.1"
+    }
 }
